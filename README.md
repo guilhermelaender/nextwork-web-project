@@ -9,3 +9,5 @@ This 7 day challenge will guide you through the process of setting up a CI/CD pi
 
 ![Diagrama do Projeto](images/devops-challenge.png)
 
+Fonte: https://learn.nextwork.org/
+
